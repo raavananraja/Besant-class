@@ -1,0 +1,8 @@
+a=int(input("a value: "))
+b=int(input("b value: "))
+c=int(input("c value: "))
+d=int(input("d value: "))
+print("add value:",str((a+b)+(c+d)))
+print((a-b)+(c-d))
+print((a*b)+(c*d))
+print((a/b)+(c/d))
